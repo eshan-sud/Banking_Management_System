@@ -6,7 +6,7 @@ ________________________________________________________________________________
 <img width="434" alt="Screenshot 2023-11-18 134726" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/057cc9b0-4e39-4dec-96af-a4c1ee5a635b">
 
 
-Introducing a GUI-based Bank Management System designed for cusotmers of a bank and their admins to maintain and manage records 
+Introducing a GUI-based Bank Management System designed for customers of a bank and their admins to maintain and manage records.
 
 
 Built using Java programming lanaguage, Object Oriented Programming and file handling.
@@ -19,7 +19,7 @@ Built using Java programming lanaguage, Object Oriented Programming and file han
 
 - Open the command prompt in the file explorer where the files are stored
 
-- Excecute the following statements in the command prompt to start ypur program
+- Excecute the following statements in the command prompt to start your program
   
       javac -d . *.java
       java JavaBankManagementSystem.Start
