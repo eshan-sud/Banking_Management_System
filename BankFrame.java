@@ -1,4 +1,4 @@
-package JavaBankingSystem;
+package JavaBankManagementSystem;
 
 import javax.swing.*;
 import java.awt.*;
