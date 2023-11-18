@@ -21,9 +21,8 @@ Built using Java programming lanaguage, Object Oriented Programming and file han
 
 - Excecute the following statements in the command prompt to start ypur program
   
-      javac -cp .\ Start.java Constants.java Utility.java CustomerAccount.java AdminAccount.java BankFrame.java NewCustomerAccount.java
-
-      java -cp . JavaBankMangementSystem.Start
+      javac -d . *.java
+      java JavaBankManagementSystem.Start
 
 ____________________________________________________________________________________________________________________________________________________________________________
 
