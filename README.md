@@ -3,7 +3,7 @@ ________________________________________________________________________________
 # Bank Management System
 
 
-<img width="434" alt="Screenshot 2023-11-18 131115" src="https://github.com/eshan-sud/Banking_Management_System/assets/113531303/b78708a9-7c92-4b84-8a9b-ada760faf70b">
+<img width="434" alt="Screenshot 2023-11-18 134726" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/057cc9b0-4e39-4dec-96af-a4c1ee5a635b">
 
 
 Introducing a GUI-based Bank Management System designed for cusotmers of a bank and their admins to maintain and manage records 
@@ -31,17 +31,17 @@ ________________________________________________________________________________
 
 i. Create new customer account
 
-<img width="433" alt="Screenshot 2023-11-18 131300" src="https://github.com/eshan-sud/Banking_Management_System/assets/113531303/9b0e8be7-ed94-40c9-8b87-4af6ce843a8a">
+<img width="435" alt="Screenshot 2023-11-18 134731" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/33f9d6c7-d6df-48ed-859b-1c7202e8dec0">
 
 
 ii. Login to the current customer account
 
-<img width="439" alt="Screenshot 2023-11-18 131309" src="https://github.com/eshan-sud/Banking_Management_System/assets/113531303/4764da98-9850-4ed2-9f0a-5e90ddb69bab">
+<img width="434" alt="Screenshot 2023-11-18 134738" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/1fd95d83-879f-4f3d-b9ef-f7e30afb6fba">
 
 
 iii. Login to an admin account
 
-<img width="438" alt="Screenshot 2023-11-18 131316" src="https://github.com/eshan-sud/Banking_Management_System/assets/113531303/b8174c05-16f0-44f9-ba64-ab9b36d38f87">
+<img width="435" alt="Screenshot 2023-11-18 134746" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/401f43e1-aef9-493c-b095-e08abd44ac4e">
 
 
 iv. Quit
@@ -49,7 +49,7 @@ iv. Quit
 
 ## Customer Account Operations:
 
-<img width="434" alt="Screenshot 2023-11-18 131332" src="https://github.com/eshan-sud/Banking_Management_System/assets/113531303/a42b4645-4863-4517-9613-b4c0a3f3dec0">
+<img width="433" alt="Screenshot 2023-11-18 134759" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/de6b631a-4aee-4135-a373-ec9e002341f5">
 
 
 i. View Account Details
@@ -65,7 +65,7 @@ v. Logout
 
 ## Admin Account Operations:
 
-<img width="440" alt="Screenshot 2023-11-18 131348" src="https://github.com/eshan-sud/Banking_Management_System/assets/113531303/96aef317-a8ac-4618-bdf7-1c2938b8ec1e">
+<img width="435" alt="Screenshot 2023-11-18 134811" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/6ce3f14f-8d74-4bfc-a30d-19d4fc405dd5">
 
 
 i. View Account Holder Details
