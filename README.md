@@ -1,12 +1,12 @@
 ____________________________________________________________________________________________________________________________________________________________________________
 
-# Banking Management System
+# Bank Management System
 
 
 <img width="434" alt="Screenshot 2023-11-18 131115" src="https://github.com/eshan-sud/Banking_Management_System/assets/113531303/b78708a9-7c92-4b84-8a9b-ada760faf70b">
 
 
-Introducing a GUI-based Banking Management System designed for cusotmers of a bank and their admins to maintain and manage records 
+Introducing a GUI-based Bank Management System designed for cusotmers of a bank and their admins to maintain and manage records 
 
 
 Built using Java programming lanaguage, Object Oriented Programming and file handling.
@@ -23,7 +23,7 @@ Built using Java programming lanaguage, Object Oriented Programming and file han
   
       javac -cp .\ Start.java Constants.java Utility.java CustomerAccount.java AdminAccount.java BankFrame.java NewCustomerAccount.java
 
-      java -cp . JavaBankingSystem.Start
+      java -cp . JavaBankMangementSystem.Start
 
 ____________________________________________________________________________________________________________________________________________________________________________
 
