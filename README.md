@@ -2,12 +2,10 @@ ________________________________________________________________________________
 
 # Bank Management System
 
+A GUI based Bank Management System, user & admin logins, authentications, and ability to store & modify user information. Implemented a robust system for creating new customer accounts, facilitating secure login procedures, & providing administrators with exclusive access for managing system operations.
+
 
 <img width="434" alt="Screenshot 2023-11-18 134726" src="https://github.com/eshan-sud/bank-management-system/assets/113531303/057cc9b0-4e39-4dec-96af-a4c1ee5a635b">
-
-
-Introducing a GUI-based Bank Management System designed for customers of a bank and their admins to maintain and manage records.
-
 
 Built using Java programming lanaguage, Object Oriented Programming and file handling.
 
